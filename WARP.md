@@ -1,63 +1,63 @@
 # WARP.md
 
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
+Este arquivo fornece orientação ao WARP (warp.dev) ao trabalhar com código neste repositório.
 
-## Repository Overview
+## Visão geral do repositório
 
-This is a basic Python learning repository containing simple Python scripts for educational purposes. The repository contains basic Python examples demonstrating:
-- Print statements and string formatting
-- User input handling
-- Basic data type conversions and formatting
-- F-string usage with formatting specifiers
+Este é um repositório básico de aprendizado de Python contendo scripts Python simples para fins educacionais. O repositório contém exemplos básicos de Python que demonstram:
+- Instruções de impressão e formatação de strings
+- Tratamento de entrada do usuário
+- Conversões básicas de tipos de dados e formatação
+- Uso de F-string com especificadores de formatação
 
-## Codebase Structure
+## Estrutura da base de código
 
-The repository has a minimal structure:
-- `saida.py` - Main Python script containing basic Python learning examples
+O repositório tem uma estrutura mínima:
+- `saida.py` - Script Python principal contendo exemplos básicos de aprendizagem de Python
 
-## Development Environment
+## Ambiente de Desenvolvimento
 
-This repository appears to be for Python learning but currently lacks Python installation on the system. The code is written in Portuguese, indicating it's likely a Portuguese-language learning project.
+Este repositório parece ser para aprendizado de Python, mas atualmente não possui instalação do Python no sistema. O código está escrito em português, indicando que provavelmente se trata de um projeto de aprendizado da língua portuguesa.
 
-## Common Commands
+## Comandos Comuns
 
-### Running the Python Script
-Since Python is not currently installed on the system, you'll need to install Python first:
+### Executando o script Python
+Como o Python não está instalado no sistema, você precisará instalá-lo primeiro:
 
 ```powershell path=null start=null
-# Install Python via Windows Store or download from python.org
-# Then run the script with:
+# Instale o Python via Windows Store ou baixe em python.org
+# Em seguida, execute o script com:
 python saida.py
-# or
+# ou
 py saida.py
 ```
 
-### Basic Development Tasks
+### Tarefas Básicas de Desenvolvimento
 ```powershell path=null start=null
-# Check if Python is installed
+# Verifique se o Python está instalado
 python --version
 
-# Run the script
+# Execute o script
 python saida.py
 
-# Check git status
+# Verifique o status do git
 git status
 
-# Add and commit changes
+# Adicionar e confirmar alterações
 git add .
-git commit -m "Update Python examples"
+git commit -m "Atualizar exemplos de Python"
 ```
 
-## Code Characteristics
+## Características do código
 
-- The code is written in Portuguese (comments and variable names)
-- Focuses on basic Python concepts like print formatting, input handling
-- Uses f-strings with various formatting options (decimal, binary, floating point)
-- Interactive script that requests user input for name, age, salary, and nationality
+- O código está escrito em português (comentários e nomes de variáveis)
+- Concentra-se em conceitos básicos do Python, como formatação de impressão e tratamento de entrada
+- Usa f-strings com várias opções de formatação (decimal, binário, ponto flutuante)
+- Script interativo que solicita ao usuário a entrada de nome, idade, salário e nacionalidade
 
-## Notes for Development
+## Notas para Desenvolvimento
 
-- This appears to be a learning/educational repository for basic Python concepts
-- The script is interactive and requires user input when run
-- Python environment needs to be set up before running any code
-- Code demonstrates Portuguese-language programming education
+- Este parece ser um repositório educacional/de aprendizagem para conceitos básicos do Python
+- O script é interativo e requer entrada do usuário quando executado
+- O ambiente Python precisa ser configurado antes de executar qualquer código
+- Código demonstra educação em programação em língua portuguesa
