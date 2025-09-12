@@ -22,3 +22,6 @@ print(f"Sua nacionalidade é:", nacionalidade)
 print("\n", nome, "Contem:", idade, "anos","\n",
     "Com o salario de:", salario,"\n",
     "e a sua naciolidade é:", nacionalidade)
+
+#fim do primeiro teste#
+
