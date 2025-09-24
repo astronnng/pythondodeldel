@@ -23,4 +23,8 @@ print("\n", nome, "Contem:", idade, "anos","\n",
     "Com o salario de:", salario,"\n",
     "e a sua naciolidade é:", nacionalidade)
 
+<<<<<<< HEAD
+=======
+#fim do primeiro teste#
+>>>>>>> 794343dfd3eaf0d28dd8c0eb1166f770b6b4b283
 
