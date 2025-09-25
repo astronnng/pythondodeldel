@@ -31,3 +31,4 @@ timerzinho = (5)
 print(f"O tempo de espere para a tela apagar é: ", timerzinho, "segundos")
 espera = time.sleep(5)
 os.system("cls")
+##usado o exemplo da biblioteca time 
