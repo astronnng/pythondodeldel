@@ -1,0 +1,8 @@
+"""
+for i in range(1,31, 1):  #USANDO O COMANDO FOR PARA IMPRIMIR DE 1 A 30 USANDO O RANGE
+    print(i, " ", end="") #USANDO O " " PARA TER ESPAÇO E END="" PARA NÃO QUEBRAR A LINHA
+"""
+
+for i in range(10, 0, -1):  #USANDO O COMANDO FOR PARA IMPRIMIR DE 10 a 1  USANDO O RANGE
+    print(i, " ", end="")   #USANDO O " " PARA TER ESPAÇO E END="" PARA NÃO QUEBRAR A LINHA
+
