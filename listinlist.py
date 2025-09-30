@@ -19,9 +19,11 @@ for linha in mat:
 """
 
 mat = [
-    [1,2,3,4],
-    [5,6,7,8],
-    [9,10,11,12]
+    [1,2,3,4], #linha 0
+    [5,6,7,8], #linha 1
+    [9,10,11,12] #linha 2
 ]
 
-print("Dados da tabela", mat[0][3])
+print("Dados da tabela:", mat[0][3])
+#navegar na linha da lista
+
